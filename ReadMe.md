@@ -3,8 +3,6 @@
 <br>
 🧪Creando funcionalidad en medio del caos
 <br>
-⌨️99% código + 1% testeo = 991% `undefined`
-<br>
 💿Reinstalador de Windows profesional
 
 ## 🌐 Redes:
