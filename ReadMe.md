@@ -1,11 +1,10 @@
-# ☄️ SusoDiz™:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hola+👋,+Soy+SusoDiz;+Bienvenido+a+mi+Perfil!)](https://git.io/typing-svg)
+<br>
 🗿Desarrollando Merequetenge™ (Bot de Discord)
 <br>
 🧪Creando funcionalidad en medio del caos
 <br>
 💿Reinstalador de Windows profesional
-<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hola+👋,+Soy+SusoDiz;+Bienvenido+a+mi+Perfil!)](https://git.io/typing-svg)
 
 ## 🌐 Redes:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/feTTh4HpcK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suso.diz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SusoDiz) 
