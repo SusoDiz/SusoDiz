@@ -37,11 +37,11 @@
 # 📊 Estadisticas:
 ![](https://github-readme-stats.vercel.app/api?username=SusoDiz&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SusoDiz&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=SusoDiz&theme=chartreuse-dark&hide_border=false)<br/> -->
-
+<!--
 # 🏆 Trofeos en GitHub
 ![](https://github-profile-trophy.vercel.app/?username=SusoDiz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-# 🔝 Repositorio con más contribuido
+-->
+# 🔝 Repositorios más contribuidos
 ![](https://github-contributor-stats.vercel.app/api?username=SusoDiz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
