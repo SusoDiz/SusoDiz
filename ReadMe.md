@@ -15,7 +15,7 @@
         padding-top: 10px;
         border: solid 1px white;
     }
-    table tr td h2 {
+    h2 {
         text-align: center;
     }
 </style>
