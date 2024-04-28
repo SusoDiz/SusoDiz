@@ -15,9 +15,6 @@
         padding-top: 10px;
         border: solid 1px white;
     }
-    h2 {
-        text-align: center;
-    }
 </style>
 
 # 💻 Cositas que sé manejar:
