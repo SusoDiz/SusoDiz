@@ -16,7 +16,7 @@
         border: solid 1px white;
     }
     h2 {
-        text-aling: center;
+        text-align: center;
     }
 </style>
 
