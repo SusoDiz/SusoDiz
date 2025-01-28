@@ -7,7 +7,7 @@
 💿Reinstalador de Windows profesional
 
 # 🌐 Redes:
-[![SusoDiz.com](https://img.shields.io/badge/SusoDiz.com-%4c82ff.svg?logo=website&logoColor=white)]([https://discord.gg/https://discord.gg/feTTh4HpcK](https://susodiz.com))
+[![SusoDiz.com](https://img.shields.io/badge/SusoDiz.com-%4c82ff.svg?logo=website&logoColor=white)](https://susodiz.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/feTTh4HpcK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suso.diz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SusoDiz) 
 
 # 💻 Cositas que sé manejar:
